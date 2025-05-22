@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mebanpynshai</h1>
-<h3 align="center">A Junior Deceloper & AI engineer</h3>
+<h3 align="center">A Junior Developer & AI engineer</h3>
 
-- 🔭 I’m currently working on *Preserving khasi folk Music : A Machine Learning Approach to Instrument Classification*
+- 🔭 I’m currently working on *Preserving Khasi Folk Music: A Machine Learning Approach to Instrument Classification*
 
 - 🌱 I’m currently learning *Fullstack web development*
 
