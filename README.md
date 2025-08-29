@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Fullstack web development*
 
-- 💬 Ask me about *Python, IoT, ML*
+- 💬 Ask me about *Python, IoT, ML, Javascript*
 
 - 📫 How to reach me *Mebanpynshai27@gmail.com*
 
